@@ -1,0 +1,5 @@
+// Create users here in the pattern like username:Password
+abubakar:abubakar@786#
+ahmed:ahmed@123$
+admin:complexpassword$
+test:test
